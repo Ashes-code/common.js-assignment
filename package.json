@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-assignmrnt",
+  "version": "1.0.0",
+  "description": "Assignment on common.js",
+  "main": "export.js",
+  "type":"commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wisdon (Ash)",
+  "license": "ISC"
+}
